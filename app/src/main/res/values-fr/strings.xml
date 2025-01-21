@@ -3,10 +3,10 @@
 
     // Welcome
     <string name="already_an_account_button">I already have an account</string>
-    <string name="get_started">Get Started</string>
-    <string name="password_hint">Password</string>
+    <string name="get_started">Commencer</string>
 
-    <string name="default_web_client_id" translatable="false">917057539718-l1d9h0vcbt9ciqq303bt9k09dssm3a3g.apps.googleusercontent.com</string>
+    // Sign Up
+    <string name="password_hint">Mot de passe</string>
     <string name="add_new_task">Add new task</string>
     <string name="calendar">Calendar</string>
     <string name="lists">Lists</string>

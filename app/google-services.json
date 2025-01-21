@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917057539718",
+    "project_id": "taskplanner-33ef7",
+    "storage_bucket": "taskplanner-33ef7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917057539718:android:3025130aab45aed344cb07",
+        "android_client_info": {
+          "package_name": "com.suonk.taskplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVcdQM-k-q04lXJKWSuXB9IwNNRZ2hZOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

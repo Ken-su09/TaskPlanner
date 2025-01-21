@@ -2,8 +2,20 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.TaskPlanner" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+         <item name="colorPrimary">@color/my_primary_color</item>
+         <item name="colorSecondary">@color/my_light_primary_color</item>
     </style>
 
     <style name="Theme.TaskPlanner" parent="Base.Theme.TaskPlanner" />
+
+    <style name="ShapeAppearanceOverlay.MaterialComponents.Corner.Full">
+        <item name="cornerSize">50%</item> <!-- Makes it a perfect circle -->
+    </style>
+
+    <style name="Theme.TaskPlanner.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_app_icon</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Theme.TaskPlanner</item>
+    </style>
 </resources>
